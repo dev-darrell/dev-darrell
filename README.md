@@ -1,12 +1,12 @@
 ### Hi there 👋🏽👋🏽
 
-I'm Darrell Medeyinlo, a junior Android developer.
+I'm Darrell Medeyinlo, a certified junior Android developer.
 
-I'm currently learning more about Algorithms & Data structures, Custom Views and Dependency Injection.
+I'm currently learning more about _Algorithms & Data structures_, _Custom Views_ and _Dependency Injection._
 
 I'm be glad to collaborate on cool projects where I can use my skills and improve on new ones!
 
-You can also reach me on [Twitter](https://twitter.com/adnahcodes)
+You can reach out to me on [Twitter](https://twitter.com/adnahcodes)
 
 Thanks for checking out my profile!!
 
