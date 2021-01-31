@@ -1,4 +1,20 @@
-### Hi there 👋
+### Hi there 👋🏽👋🏽
+
+I'm Darrell Medeyinlo, a junior Android developer.
+
+I'm currently learning more about Algorithms & Data structures, Custom Views and Dependency Injection.
+
+I'm be glad to collaborate on cool projects where I can use my skills and improve on new ones!
+
+You can also reach me on [Twitter](https://twitter.com/adnahcodes)
+
+Thanks for checking out my profile!!
+
+<p align="left"> 
+  <b>Visitor count</b><br>
+  <img src="https://profile-counter.glitch.me/dev-darrell/count.svg" />
+</p>
+
 
 <!--
 **dev-darrell/dev-darrell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
