@@ -1,6 +1,6 @@
 ### Hi there 👋🏽👋🏽
 
-I'm Darrell Medeyinlo, a certified junior Android developer.
+I'm Adebowale Medeyinlo, a certified junior Android developer.
 
 I'm currently learning more about _Algorithms & Data structures_, _Custom Views_ and _Dependency Injection._
 
