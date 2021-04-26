@@ -1,15 +1,15 @@
 ### Hi there 👋🏽👋🏽
 
-I'm Adebowale Medeyinlo, a certified junior Android developer.
+I'm Adebowale Medeyinlo, a certified Android developer.
+I work as a freelancer helping schools and training institutes build apps to improve their processes.
 
-I'm currently learning more about _Algorithms & Data structures_, _Custom Views_ and _Dependency Injection._ 
-Also, with Jetpack Compose in beta now, it's among the things on top of my list of what to learn.
+Right now, I'm taking a deep dive _Algorithms & Data structures_, _Custom Views_ and _Dependency Injection._ 
+Jetpack Compose is also one of the top things on my list of what to learn.
 
-I'll be glad to collaborate on cool projects where I can use my skills and improve on new ones!
+I'll be glad to work on cool projects with you.
+Reach out to me on [LinkedIn](https://LinkedIn.com/in/adnah-medeyinlo) and let's connect!
 
-You can reach out to me on [Twitter](https://twitter.com/adnahcodes)
-
-Thanks for checking out my profile!!
+Thanks for checking out my profile!! 
 
 <p align="left"> 
   <b>Visitor count</b><br>
